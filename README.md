@@ -23,3 +23,19 @@ This app allows you to:
 ### 3. Launch streamlit demo
 
 * `streamlit run speech.py`
+
+## Usage
+---
+- go to the browser and choose between the following options: "Record Audio", "Choose audio". Lets say we choose "Choose audio".</br>
+<img src="images/1.png" width=550>
+ 
+- As you can see it loads the audio and the embedding of the speaker and also draw the charts</br>
+
+- You can also choose the translation language.</br>
+<img src="images/2.png" width=550>
+
+---
+
+Happy Coding!
+
+
